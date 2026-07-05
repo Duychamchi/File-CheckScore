@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ExamDbContext-Web.config Connection String" description="ExamDbContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=sql1003.site4now.net;Initial Catalog=db_ac0d0b_vothuonghacbach;User ID=db_ac0d0b_vothuonghacbach_admin;Password=Quocduy2003@;MultipleActiveResultSets=True;TrustServerCertificate=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\FileLamWeb\\APICHECKSIEUCAP\\APICHECKSIEUCAP\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ExamDbContext']/@connectionString" />
+  </parameter>
+</parameters>
